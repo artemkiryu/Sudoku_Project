@@ -1,4 +1,4 @@
-# Sudoku solver
+# Sudoku
 Sudoku solver 
 representing sudoku board:
 ```
